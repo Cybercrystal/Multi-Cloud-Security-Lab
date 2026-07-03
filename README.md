@@ -36,6 +36,7 @@ A production-grade multi-cloud security lab built to simulate real-world threat 
 <p><em>S3 bucket receiving CloudTrail logs via Terraform-provisioned pipeline</em></p>
 
 
+
 <img width="1830" height="1097" alt="aws-cloudtrail-trail-active" src="https://github.com/user-attachments/assets/09ae333d-9399-4e9a-b442-1d0f1197473e" />
 CloudTrail security-lab-trail actively logging with Terraform provisioning event history
 
