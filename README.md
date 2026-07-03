@@ -66,6 +66,9 @@ A production-grade multi-cloud security lab built to simulate real-world threat 
 - 500+ CloudTrail events ingested and searchable in Elastic SIEM
 - 4 custom detection rules mapped to MITRE ATT&CK framework
 <img width="1500" height="751" alt="elastic-iam-key-alert-firing" src="https://github.com/user-attachments/assets/0537cecf-a731-467a-9548-4e8be1b83438" />
+<img width="1274" height="1129" alt="elastic-cloudtrail-6466-docs-ingested" src="https://github.com/user-attachments/assets/6a06796a-6cf5-450d-a37b-66739a8a17fb" />
+<img width="1261" height="632" alt="elastic-fleet-agents-healthy" src="https://github.com/user-attachments/assets/db1b1a6c-63d2-4126-b2cf-0c9061435e23" />
+<img width="876" height="1042" alt="elastic-agent-integrations-aws-azure" src="https://github.com/user-attachments/assets/d626a4d2-6705-47de-941c-2ad42cbb319c" />
 
 ## Author
 Crystal Branam | Military Veteran | Cybersecurity Engineer  
