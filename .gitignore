@@ -1,0 +1,15 @@
+# Elastic Agent files
+elastic/
+
+# Terraform state files (contain sensitive data)
+**/.terraform/
+**/.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
+
+# Sensitive variable files
+*.tfvars
+
+# Mac system files
+.DS_Store
+*.backup
