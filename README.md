@@ -58,5 +58,5 @@ A production-grade multi-cloud security lab built to simulate real-world threat 
 - 4 custom detection rules mapped to MITRE ATT&CK framework
 
 ## Author
-Crystal Brown | Military Veteran | Cybersecurity Engineer  
+Crystal Branam | Military Veteran | Cybersecurity Engineer  
 [GitHub](https://github.com/Cybercrystal) | [LinkedIn](#)
