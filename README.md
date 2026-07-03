@@ -33,7 +33,7 @@ A production-grade multi-cloud security lab built to simulate real-world threat 
 - SQS Queue (log pipeline notifications)
 - IAM User + Policy (least privilege for Elastic Agent)
 <img width="1834" height="502" alt="aws-s3-cloudtrail-logs-bucket" src="https://github.com/user-attachments/assets/d69eaaa7-5fb7-4f05-8059-7b3846d6bd53" />
- ## S3 bucket receiving CloudTrail logs via Terraform-provisioned pipeline
+ ### S3 bucket receiving CloudTrail logs via Terraform-provisioned pipeline
 
 <img width="1830" height="1097" alt="aws-cloudtrail-trail-active" src="https://github.com/user-attachments/assets/09ae333d-9399-4e9a-b442-1d0f1197473e" />
 CloudTrail security-lab-trail actively logging with Terraform provisioning event history
