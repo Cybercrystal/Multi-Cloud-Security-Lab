@@ -88,7 +88,7 @@ A production-grade multi-cloud security lab built to simulate real-world threat 
 <p><em>Elastic Agent healthy and running on Security-Lab-Policy</em></p>
 
 <img width="876" height="1042" alt="elastic-agent-integrations-aws-azure" src="https://github.com/user-attachments/assets/d626a4d2-6705-47de-941c-2ad42cbb319c" />
-<p><em>WS S3 integration active confirming CloudTrail → SQS → Elastic pipeline</em></p>
+<p><em>AWS S3 integration active confirming CloudTrail → SQS → Elastic pipeline</em></p>
 
 ## Author
 Crystal Branam | Military Veteran | Cybersecurity Engineer  
